@@ -1,16 +1,16 @@
 # DL-CRISPR_offtarget_prediction
-TriplexFPP is a program for off-target activity prediction in CRISPR/Cas9 system. 
+DL-CRISPR is a program for off-target activity prediction in CRISPR/Cas9 system. 
 
 ## SYSTEM REQUIREMENTS
 
 ### Hardware requirements
-TriplexFPP requires only a standard computer with enough RAM to support the in-memory operations.
+DL-CRISPR requires only a standard computer with enough RAM to support the in-memory operations.
 
 ### Software requirements
 
 #### OS Requirements
 
-TriplexFPP has been tested on the following systems:
+DL-CRISPR has been tested on the following systems:
 
 * macOS (10.14.6)
 * Windows10
