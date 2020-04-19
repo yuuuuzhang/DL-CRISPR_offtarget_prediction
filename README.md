@@ -50,7 +50,7 @@ This folder contains the models. The models are from one of the 5-fold cross-fol
 ### input_example folder:
 This folder contains example input files. These example files are from one of 5-fold cross-fold validation positive test data, which are consistent with the model folder above.
 
-### output_files folder:
+### output folder:
 The output result files will be put into this folder.
 
 
